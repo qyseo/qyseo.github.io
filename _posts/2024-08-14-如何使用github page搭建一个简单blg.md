@@ -2,10 +2,12 @@
 
 
  ---
+ 
  title: 如何使用github page搭建一个简单blog
  date: 2024-08-14 07:10:00 +0800
- categories: [Blog, life]
+ categories: [Blog,life]
  tags: [blog]
+ 
  ---
 
 
