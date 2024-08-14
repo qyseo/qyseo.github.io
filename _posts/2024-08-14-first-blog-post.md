@@ -1,10 +1,11 @@
-## 如何使用github page搭建一个简单blog
+## 准备好了
 
 ---
- title: how to build a simple blog use github page
+ layout: post
+ title: "如何使用github page搭建一个简单blog"
  date: 2024-08-14 07:10:00 +0800
- categories: [Blog, life]
- tags: [blog]
+ categories: life
+ tags: life
 ---
 
 
