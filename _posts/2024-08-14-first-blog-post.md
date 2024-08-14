@@ -1,10 +1,10 @@
 ---
-title: "github page搭建时遇到的坑"
-date: 2024-08-14 09:00:00 +800
-categories: [post]
-tags: [life]
+layout: post
+categories: write
+title: "Github Page搭建时遇到的坑"
 author: 青衣
-
+date: 2024-08-14 13:28:01 +0800
+tags: blog seo
 ---
 
 ## 准备好了
