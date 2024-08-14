@@ -1,11 +1,12 @@
 ## 准备好了
 
 ---
- layout: post
- title: "如何使用github page搭建一个简单blog"
- date: 2024-08-14 07:10:00 +0800
- categories: life
- tags: life
+title: "github page搭建时遇到的坑"
+date: 2024-08-14 09:00:00 +0100
+categories: ["...", "..."]
+tags: ["...", "..."]
+author: 青衣
+...
 ---
 
 
