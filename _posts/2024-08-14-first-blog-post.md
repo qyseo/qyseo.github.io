@@ -1,7 +1,7 @@
 ---
 title: "github page搭建时遇到的坑"
 date: 2024-08-14 09:00:00 +800
-categories: ["...", "..."]
+categories: [post]
 tags: [life]
 author: 青衣
 
