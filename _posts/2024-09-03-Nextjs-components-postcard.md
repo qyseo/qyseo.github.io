@@ -1,6 +1,11 @@
-## Nextjs核心概念
-
-组件Components之PostCard
+---
+layout: post
+categories: write
+title: "Nextjs核心概念：（一）组件Components之PostCard"
+author: 青衣
+date: 2024-09-03 04:43:01 +0800
+tags: React Nextjs
+---
 
 ### 1、创建 PostCard 组件
 
